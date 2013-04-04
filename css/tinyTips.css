@@ -1,0 +1,32 @@
+.blkTip .content img{
+    max-width: 360px;
+    max-height: 203px;
+    border: 5px solid #f9e98e;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.blkTip .content span{
+    display: block;
+    font-weight: bold;
+    margin-top: 0px;
+    background-color: #f9e98e;
+    padding-bottom: 7px;
+    color: rgb(158, 10, 10);
+}
+.blkTip .content{
+    text-align: center;
+}
+.blkTip .contents{
+    width: 360px; 
+    padding: 1px; 
+    border: 6px solid #f9e98e; 
+    -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #fbf7aa; 
+    color: #020202;
+    text-align: center;
+    height: 240px;
+}
+.blkTip .bottom{
+    height: 14px;
+    background: url(../images/notch-yellow.png) center center no-repeat;
+    width: 100%;
+}

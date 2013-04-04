@@ -1,0 +1,5 @@
+.ie7 .ct_shadow{position: relative}
+.ie7 #divcontact .rowcontact input[type="text"]{padding-top: 5px;height: 20px}
+.ie7 .divsubmit input{padding-left: 4px;padding-right: 4px}
+.ie7 #footerLinked ul li{*display: inline;float: none}
+.blkTip .bottom{width: 200px}
