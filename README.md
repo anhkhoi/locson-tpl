@@ -1,1 +1,1 @@
-LOCSON
+LOCSON Template (HTML, CSS, JS)
